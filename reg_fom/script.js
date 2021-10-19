@@ -196,7 +196,7 @@ sessionStorage.setItem("BANK ADDRESS", bankAdd);
 
 sessionStorage.setItem("PRINTED/TYPED NAME", prinTypName);
 sessionStorage.setItem("TITLE", title);
-// sessionStorage.setItem("SIGNATURE", sign);
+sessionStorage.setItem("SIGNATURE", sign);
 sessionStorage.setItem("DATE", date);
 
 }
